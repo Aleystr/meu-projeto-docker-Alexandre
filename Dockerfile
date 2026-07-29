@@ -23,4 +23,4 @@ RUN mkdir -p /etc/todos && chown -R appuser:appgroup /etc/todos
 
 USER appuser
 
-CMD ["node", "src/index.js"]
+CMD ["node", "src/indexxxxxxx.js"]
